@@ -4,11 +4,14 @@
 
 <br>
 
-### <b>Tecnologias:</b><br>
-### <b>[x] HTML<br></b>
-### <b>[x] CSS 🎨<br></b>
+https://github.com/gilsonluzfilho/Cardapio-Lanchonete/assets/109834277/8c64376b-c8f4-4aa2-ab61-d55c25ffd60e
+
 <br>
+
+<h3><b>Tecnologias:</b></h3>
+[ x ] HTML <br>
+[ x ] CSS🎨 
 
 <h3><b>Projeto online 👇🏻</b></h3>
 
-https://minhapaginaweb.github.io/pontodoacai/
+<p>https://minhapaginaweb.github.io/pontodoacai/</p>
