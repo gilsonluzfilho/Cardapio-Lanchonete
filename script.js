@@ -9,3 +9,14 @@ function enviarPedido(event) {
 
   window.open(urlWhatsApp, '_blank');
 }
+
+const cards = document.querySelectorAll('.cards');
+
+cards.forEach(function(card) {
+  card.addEventListener('click', function() {
+    
+    const formElement = document.querySelector('#enviar-pedido');
+    
+    formElement.scrollIntoView({ behavior: 'smooth' });
+  });
+});
